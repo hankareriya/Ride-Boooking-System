@@ -293,3 +293,8 @@ The actual number of assigned and rejected rides may vary because driver accepta
 - Idempotent event handling.
 - Automated unit and integration testing.
 - Improved concurrent ride dispatch and database locking.
+
+## License
+
+This project is available for educational and portfolio purposes. No formal open-source license has been added yet.
+
